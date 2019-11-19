@@ -22,7 +22,7 @@ it's free realestate.
 State to store:
 
 - authentication tokens
-    - careful about storing unencrypted passwords
+- careful about storing unencrypted passwords
 - preferences
 - prior selections from a list
 - performance caches

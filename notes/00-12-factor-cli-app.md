@@ -7,15 +7,16 @@ Notes taken on: [12 Factor CLI Apps](https://medium.com/@jdxcode/12-factor-cli-a
 all these commands should work in a cli for help
 
 oclif gives this to you for free
-
-    # list all commands
-    $ mycli
-    $ mycli --help
-    $ mycli help
-    $ mycli -h
-    # get help for subcommand
-    $ mycli subcommand --help
-    $ mycli subcommand -h
+```bash
+# list all commands
+$ mycli
+$ mycli --help
+$ mycli help
+$ mycli -h
+# get help for subcommand
+$ mycli subcommand --help
+$ mycli subcommand -h
+```
 
 ## 02. Prefer flags to args
 
@@ -68,3 +69,5 @@ In oclif we use the [debug](https://www.npmjs.com/package/debug) module which al
 ## 6. Be fancy!
 
 ## 7. Prompt if you can
+
+[TODO]

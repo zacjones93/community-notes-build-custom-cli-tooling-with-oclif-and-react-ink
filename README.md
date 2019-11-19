@@ -4,7 +4,7 @@
 
 These notes are intended to be used and studied in tandem with Shawn swyx Wang's [Build Custom CLI Tooling with oclif and React Ink](https://egghead.io/courses/build-custom-cli-tooling-with-oclif-and-react-ink) workshop.
 
-The initial notes were taken during Shawns [live workshop](https://github.com/sw-yx/egghead-cli-workshop).
+The initial notes were taken during [Shawn's live workshop](https://github.com/sw-yx/egghead-cli-workshop).
 
 Some question(s) are outlined in the essential questions section of the README for you to think about as you take the workshop. There is no 'definitive' answer to these questions but as you learn, you'll develop a more contextualized answer.
 
